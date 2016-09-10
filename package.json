@@ -1,0 +1,28 @@
+{
+  "name": "libcrawler",
+  "version": "1.0.0",
+  "description": "A node crawler library that provides general crawler directives.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nn1900/libcrawler.git"
+  },
+  "keywords": [
+    "crawler",
+    "webcrawler",
+    "crawl"
+  ],
+  "author": "eric",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nn1900/libcrawler/issues"
+  },
+  "homepage": "https://github.com/nn1900/libcrawler#readme",
+  "dependencies": {
+    "lodash": "^4.15.0",
+    "request": "^2.74.0"
+  }
+}
